@@ -1,2 +1,5 @@
 # React_Practice
-Creating a React Application with all sorts of features to learn
+Creating a React Applications with all sorts of features to learn
+
+Each Branch has a different project
+
